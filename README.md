@@ -1,5 +1,5 @@
 # Ionic
-Some examples
+Make your Splash and icon
 
 # Make your splash and icon
 http://blog.ionic.io/automating-icons-and-splash-screens/ </br>
